@@ -53,3 +53,7 @@ To check shell syntax without connecting a device:
 ```sh
 bash -n mf50-config.sh
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
