@@ -24,8 +24,6 @@ cd mf50-config
 bash ./mf50-config.sh
 ```
 
-The repository is private, so cloning requires an authenticated account with access.
-
 Select a detected serial port, or choose `m` to enter its path manually. Then select a configuration mode.
 
 ### Interactive mode (recommended)
